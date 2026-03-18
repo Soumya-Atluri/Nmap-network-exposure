@@ -59,16 +59,9 @@ Using Nmap for network scanning is crucial for identifying open services and pot
 ## 📁 Files Included
 
 - `README.md` – Full report and analysis
-- `TASK-1.html` – HTML version of the scan report
+- `code.html` – HTML version of the scan report
 
 ---
-
-## 🧾 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🔗 About
 
 This repository contains the results and analysis of a network scan performed using Nmap on a local IP range. The scan identified active devices and their open TCP ports using a SYN scan. The report lists common services running on these ports and highlights potential security risks, such as exposed vulnerable services that could be exploited.
