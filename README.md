@@ -1,4 +1,4 @@
-# 🔍 Nmap Network Exposure Analysis – Cybersecurity Internship Task 1
+# 🔍 Nmap Network Exposure Analysis – Cybersecurity 
 
 > **Short Description:**  
 >  
